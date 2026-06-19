@@ -1,0 +1,123 @@
+[
+    {
+        "isbn": "978-8535914849",
+        "titulo": "1984",
+        "autor": "George Orwell",
+        "genero": "Distopia",
+        "ano_publicacao": 1949,
+        "editora": "Companhia das Letras",
+        "paginas": 420,
+        "status": "disponivel",
+        "localizacao": "Estante A1, Prateleira 2"
+    },
+    {
+        "ano_publicacao": 1896,
+        "autor": "Charles Sheddon",
+        "editora": "Companhia das Letras",
+        "genero": "Romance",
+        "isbn": "978-6559882403",
+        "localizacao": "Estante A1, Prateleira 2",
+        "paginas": 416,
+        "status": "disponivel",
+        "titulo": "Em Seus Passos que Faria Jesus?"
+    },
+    {
+        "ano_publicacao": 1945,
+        "autor": "George Orwell",
+        "editora": "Companhia das Letras",
+        "genero": "Distopia",
+        "isbn": "978-8535909555",
+        "localizacao": "Estante A1, Prateleira 2",
+        "paginas": 416,
+        "status": "disponivel",
+        "titulo": "A revolução dos Bichos"
+    },
+    {
+        "ano_publicacao": 1945,
+        "autor": "George Orwell",
+        "editora": "Companhia das Letras",
+        "genero": "Distopia",
+        "isbn": "978-85359095XX",
+        "localizacao": "Estante A1, Prateleira 2",
+        "paginas": 416,
+        "status": "disponivel",
+        "titulo": "A revolução dos Bichos"
+    },
+    {
+        "isbn": "978-65598824XY",
+        "titulo": "Em Seus Passos que Faria Jesus?",
+        "autor": "Charles Sheddon",
+        "genero": "Romance",
+        "ano_publicacao": "1896",
+        "editora": "Companhia das Letras",
+        "paginas": "416",
+        "status": "disponivel",
+        "localizacao": "Estante A1, Prateleira 2"
+    },
+    {
+        "isbn": "978-655988XXX",
+        "titulo": "qualquer coisa",
+        "autor": "Qualquer Um",
+        "genero": "Qualquer",
+        "ano_publicacao": "2026",
+        "editora": "Quaisquer",
+        "paginas": "100",
+        "status": "disponivel",
+        "localizacao": "qualquer lugar"
+    },
+    {
+        "isbn": "12412412514",
+        "titulo": "hey",
+        "autor": "rubins",
+        "genero": "legal",
+        "ano_publicacao": "1999",
+        "editora": "bonita",
+        "paginas": "123",
+        "status": "disponível",
+        "localizacao": "estante A"
+    },
+    {
+        "isbn": "213123",
+        "titulo": "131",
+        "autor": "131",
+        "genero": "313",
+        "ano_publicacao": "13",
+        "editora": "4532543",
+        "paginas": "5234",
+        "status": "52345",
+        "localizacao": "2366"
+    },
+    {
+        "isbn": "325435",
+        "titulo": "435243",
+        "autor": "46262634",
+        "genero": "54352435243523",
+        "ano_publicacao": "626",
+        "editora": "54654",
+        "paginas": "654634654",
+        "status": "63463465463",
+        "localizacao": "45636636"
+    },
+    {
+        "isbn": "4325234",
+        "titulo": "523542",
+        "autor": "354325345",
+        "genero": "2352345",
+        "ano_publicacao": "43252345",
+        "editora": "435234",
+        "paginas": "5432523",
+        "status": "5'234",
+        "localizacao": "141"
+    },
+    {
+        "isbn": "313132323",
+        "titulo": "ok",
+        "autor": "ok",
+        "genero": "ok",
+        "ano_publicacao": "1999",
+        "editora": "ok",
+        "paginas": "123",
+        "status": "ok",
+        "localizacao": "estante 23"
+    }
+]
